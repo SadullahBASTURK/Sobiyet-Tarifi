@@ -1,0 +1,64 @@
+h2 
+{
+    width: max-content;
+    height: max-content; 
+    color: #a20000; 
+    /* background-color: rgb(131, 165, 72);  */
+    /* text-align:right;  */
+    font-family: 'Courier New', Courier, monospace; 
+    font-size:40px;
+}
+
+h3
+{
+    width: max-content;
+    height: max-content; 
+    color: #a20000; 
+    /* background-color: rgb(131, 165, 72);  */
+    /* text-align:right;  */
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size:20px; 
+}
+    
+p
+    {
+        color: rgb(70, 69, 69); 
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 20px;
+    }
+
+.box
+{
+    height: 160px;
+    width: 350px;
+    border: solid #a20000;
+    margin: 5px 0;
+}
+
+ul
+{
+    color: rgb(70, 69, 69); 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;  
+}
+
+ol
+{
+    color: rgb(70, 69, 69); 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-align: justify;
+}
+
+.sayfa-bosluk
+{
+    margin: 50px 100px 100px 100px;
+}
+
+address
+{
+    color: rgb(70, 69, 69); 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-align: justify; 
+}
